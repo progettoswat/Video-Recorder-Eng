@@ -241,7 +241,7 @@ let phrases = ['Salve quanto costa quell\' articolo?', //0
     'Dove posso acquistare i biglietti?', //21
     'Puoi acquistare i biglietti online o al botteghino.', //22
     'Salve, posso prendere il suo ordine?', //23
-    'Vorrei una pizza margherita, per favore.', //24
+    'Vorrei una pizza margherita, per favore.', //24 
     'Vuole qualcosa da bere?', //25
     'Una coca cola, grazie.', //26
     'Quanto tempo ci vorrà per preparare la pizza?', //27
@@ -266,7 +266,13 @@ let phrases = ['Salve quanto costa quell\' articolo?', //0
     'Guarda quei bambini giocare con il pallone.', //46
     'Sì, sembrano divertirsi un sacco.', //47
     'Dobbiamo portare dell\'acqua la prossima volta.', //48
-    'Hai ragione, fa davvero caldo oggi.' //49
+    'Hai ragione, fa davvero caldo oggi.', //49
+    'Qual è il numero dell\'autobus per l\'aereoporto?', //50
+    'L\'autobus è il numero 35', //51
+    'Dove stai andando di bello?', //52
+    'Sto partendo per gli Stati Uniti', //53
+    'Se avessi più soldi partirei anche io', //54
+    'Magari potremmo andare insieme in futuro' //55
 ]
 
 let slideIndex = [1,1];
