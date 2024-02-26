@@ -1,6 +1,6 @@
 # Video-Recorder
 
-Tool implemented to record videos to build the dataset used in the project https://github.com/BenedettoSimone/researchProject .
+Tool implemented to record videos.
 
 <p align="center"><img src="./screen.png"/></p>
 
@@ -8,9 +8,4 @@ Tool implemented to record videos to build the dataset used in the project https
 You can change video constraints and phrases in the ``script.js``.
 
 ## Usage
-https://benedettosimone.github.io/Video-Recorder/ or clone the repository.
-
-
-## Developed by
-[Simone Benedetto](https://github.com/BenedettoSimone) <br>
-[Salerno Daniele](https://github.com/DanieleSalerno)
+https://progettoswat.github.io/Video-Recorder/ or clone the repository.
