@@ -250,7 +250,7 @@ input[type=text], select {
 #more-instruction{
     display: none;
     text-align: left;
-    height: auto;
+    height: 500px;
 }
 
 #instruction h3{
