@@ -217,62 +217,27 @@ window.onresize= function closeInstruction() {
 
 
 /*CAROUSEL*/
-let phrases = ['Salve quanto costa quell\' articolo?', //0
-    'È in offerta, costa 10 euro.', //1
-    'Perfetto, vorrei comprarne due.', //2
-    'Certo ecco a lei, vuole un sacchetto?', //3
-    'Sì, grazie e arrivederci.', //4
-    'Le auguro una buona giornata.', //5
-    'Buongiorno, io sono Mario.', //6
-    'Buonasera, io sono Mario', //7
-    'Piacere Luigi, come stai?', //8
-    'Tutto bene, tu?', //9
-    'Tutto bene, grazie.', //10
-    'Prendiamo un caffè al bar?', //11
-    'Certo volentieri, io lo prenderò macchiato.', //12
-    'A che ora arriva il pullman?', //13
-    'Dovrebbe arrivare tra qualche minuto.', //14
-    'Quanto costa il biglietto?', //15
-    'Purtroppo non lo so, però potresti chiedere all’autista.', //16
-    'Va bene, grazie lo stesso.', //17
-    'Prego.', //18
-    'Buongiorno, a che ora inizia lo spettacolo?', //19
-    'Lo spettacolo inizia a mezzanotte.', //20
-    'Dove posso acquistare i biglietti?', //21
-    'Puoi acquistare i biglietti online o al botteghino.', //22
-    'Salve, posso prendere il suo ordine?', //23
-    'Vorrei una pizza margherita, per favore.', //24 
-    'Vuole qualcosa da bere?', //25
-    'Una coca cola, grazie.', //26
-    'Quanto tempo ci vorrà per preparare la pizza?', //27
-    'Circa 20 minuti di attesa.', //28
-    'Va bene, aspetterò.', //29
-    'Ecco la sua pizza margherita, buon appetito!', //30
-    'Qual è la tua esperienza nel settore?', //31
-    'Ho lavorato per due anni come consulente informatico.', //32
-    'Perché vuoi lavorare qui?', //33
-    'Ammiro la vostra cultura aziendale.', //34
-    'Cosa hai fatto di interessante ultimamente?', //35
-    'Ho fatto una gita in montagna.', //36
-    'Hai qualche piano per il fine settimana?', //37
-    'Penso di andare al concerto.', //38
-    'Hai visto l\'ultimo film uscito?', //39
-    'No, non ancora. Vogliamo andare insieme?', //40
-    'Si, volentieri.', //41
-    'Che bello fare una passeggiata qui.', //42
-    'Sì, l\'aria fresca fa bene.', //43
-    'Vogliamo sederci su quella panchina?', //44
-    'Si, sembra un bel posto per riposare.', //45
-    'Guarda quei bambini giocare con il pallone.', //46
-    'Sì, sembrano divertirsi un sacco.', //47
-    'Dobbiamo portare dell\'acqua la prossima volta.', //48
-    'Hai ragione, fa davvero caldo oggi.', //49
-    'Qual è il numero dell\'autobus per l\'aereoporto?', //50
-    'L\'autobus è il numero 35', //51
-    'Dove stai andando di bello?', //52
-    'Sto partendo per gli Stati Uniti', //53
-    'Se avessi più soldi partirei anche io', //54
-    'Magari potremmo andare insieme in futuro' //55
+let phrases = ['How are you?', //0
+    'Fine, thank you',
+    'Do you have any plans for the weekend?',
+    'I\'am considering attending a concert.',
+    'Have you seen the latest movie that was released?',
+    'No, not yet. Would you like to go together?',
+    'Yes, I would love to.',
+    'It\'s wonderful to take a walk here.',
+    'Yes, the fresh air is beneficial.',
+    'Shall we sit on that bench?',
+    'Yes, it seems a nice spot to rest.',
+    'Look at those children playing with the ball.',
+    'Indeed, they seem to be having a lot of fun.',
+    'We should bring some water next time.',
+    'You’re right, it is indeed hot today.',
+    'What is the bus number to the airport?',
+    'The bus is number 35.',
+    'Where are you going that\'s nice?',
+    'I am departing for the United States.',
+    'If I had more money, I would leave too.',
+    'Perhaps we could travel together in the future.'   
 ]
 
 let slideIndex = [1,1];
